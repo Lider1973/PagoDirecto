@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:tns="http://impl.service.directpayment.cpn.ecobis.cobiscorp/" xmlns:ns1="http://service.directpayment.cpn.ecobis.cobiscorp.ws/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsp1_2="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" name="DirectPaymentExecutorWSService" targetNamespace="http://impl.service.directpayment.cpn.ecobis.cobiscorp/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <import namespace="http://service.directpayment.cpn.ecobis.cobiscorp.ws/" location="DirectPaymentExecutor.wsdl" />
+  <types />
+  <binding name="DirectPaymentExecutorWSPortBinding" type="ns1:DirectPaymentExecutor">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <operation name="ExecutePayment">
+      <soap:operation soapAction="http://service.directpayment.cpn.ecobis.cobiscorp.ws/DirectPaymentExecutor/ExecutePayment" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="DirectPaymentExecutorWSService">
+    <port name="DirectPaymentExecutorWSPort" binding="tns:DirectPaymentExecutorWSPortBinding">
+      <soap:address location="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService" />
+    </port>
+  </service>
+</definitions>

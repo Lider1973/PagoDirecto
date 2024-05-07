@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="ServiSwitch_WSPDR.Service1" CodeBehind="Service_Asynchronious.svc.vb" %>

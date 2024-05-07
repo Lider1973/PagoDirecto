@@ -1,0 +1,36 @@
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_AuthCPN_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_AuthCPN_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_AuthCPN_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Host2_Interface.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_AuthCPNPDR.exe.exe.config

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MyName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WEBSERVPDR</Value>
+    </Setting>
+    <Setting Name="ReplyQueue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2000_1020_RPQ</Value>
+    </Setting>
+    <Setting Name="RequestRouter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1000_2001_RQQ</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

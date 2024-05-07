@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://service.directpayment.cpn.ecobis.cobiscorp.ws/" xmlns:ns1="http://www.w3.org/2007/05/addressing/metadata" targetNamespace="http://service.directpayment.cpn.ecobis.cobiscorp.ws/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <xsd:schema>
+      <xsd:import schemaLocation="DirectPaymentExecutor_schema1.xsd" namespace="http://service.directpayment.cpn.ecobis.cobiscorp.ws/" />
+    </xsd:schema>
+    <xsd:schema>
+      <xsd:import schemaLocation="DirectPaymentExecutor_schema2.xsd" namespace="http://service.directpayment.cpn.ecobis.cobiscorp" />
+    </xsd:schema>
+    <xsd:schema>
+      <xsd:import schemaLocation="DirectPaymentExecutor_schema3.xsd" namespace="http://dto2.sdf.cts.cobis.cobiscorp.com" />
+    </xsd:schema>
+    <xsd:schema>
+      <xsd:import schemaLocation="DirectPaymentExecutor_schema4.xsd" namespace="http://dto2.commons.ecobis.cobiscorp" />
+    </xsd:schema>
+    <xsd:schema>
+      <xsd:import schemaLocation="DirectPaymentExecutor_schema5.xsd" namespace="http://dto.directpayment.cpn.ecobis.cobiscorp" />
+    </xsd:schema>
+  </types>
+  <message name="ExecutePayment">
+    <part name="parameters" element="tns:ExecutePayment" />
+  </message>
+  <message name="ExecutePaymentResponse">
+    <part name="parameters" element="tns:ExecutePaymentResponse" />
+  </message>
+  <portType name="DirectPaymentExecutor">
+    <operation name="ExecutePayment">
+      <input ns1:Action="http://service.directpayment.cpn.ecobis.cobiscorp.ws/DirectPaymentExecutor/ExecutePayment" message="tns:ExecutePayment" />
+      <output ns1:Action="http://service.directpayment.cpn.ecobis.cobiscorp.ws/DirectPaymentExecutor/ExecutePaymentResponse" message="tns:ExecutePaymentResponse" />
+    </operation>
+  </portType>
+</definitions>

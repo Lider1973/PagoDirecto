@@ -1,0 +1,44 @@
+C:\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.exe.config
+C:\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.exe
+C:\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.pdb
+C:\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.exe.config
+C:\SISTEMAS\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.exe
+C:\SISTEMAS\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\LOGGERAUTH\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.pdb
+C:\SystemATM\Ejecutables\LOGGERR1\ServiSwitch_LoggerAuth.exe.config
+C:\SystemATM\Ejecutables\LOGGERR1\ServiSwitch_LoggerAuth.exe
+C:\SystemATM\Ejecutables\LOGGERR1\ServiSwitch_LoggerAuth.pdb
+C:\SystemATM\Ejecutables\LOGGERR1\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.Resources.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.exe
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.pdb
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.Resources.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.exe
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.xml
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_LogAuth\obj\x86\Debug\ServiSwitch_LoggerAuth.pdb

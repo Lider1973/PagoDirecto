@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ns1="http://dto2.sdf.cts.cobis.cobiscorp.com" elementFormDefault="qualified" targetNamespace="http://dto.directpayment.cpn.ecobis.cobiscorp" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="DirectPaymentExecutor_schema3.xsd" namespace="http://dto2.sdf.cts.cobis.cobiscorp.com" />
+  <xs:complexType name="DirectPaymentResponse">
+    <xs:complexContent mixed="false">
+      <xs:extension base="ns1:CTSServiceResponseTO">
+        <xs:sequence>
+          <xs:element name="responseCode" type="xs:int" />
+          <xs:element name="ccMinimunAmount" type="xs:decimal" />
+          <xs:element name="ccTotalAmount" type="xs:decimal" />
+          <xs:element minOccurs="0" name="ccLimitDate" type="xs:string" />
+          <xs:element name="secHost" type="xs:int" />
+          <xs:element name="switchSequenceNumber" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="DirectPaymentRequest">
+    <xs:sequence>
+      <xs:element name="terminalId" type="xs:int" />
+      <xs:element name="sequenceNumber" type="xs:int" />
+      <xs:element name="transactionCode" type="xs:int" />
+      <xs:element minOccurs="0" name="dateTime" type="xs:string" />
+      <xs:element name="hostTargetId" type="xs:int" />
+      <xs:element name="channelId" type="xs:int" />
+      <xs:element minOccurs="0" name="localAccountName" type="xs:string" />
+      <xs:element minOccurs="0" name="targetAccountName" type="xs:string" />
+      <xs:element name="transactionAmount" type="xs:decimal" />
+      <xs:element minOccurs="0" name="sourceAccountNumber" type="xs:string" />
+      <xs:element minOccurs="0" name="targetAccountNumber" type="xs:string" />
+      <xs:element name="accountType" type="xs:int" />
+      <xs:element name="serviceCode" type="xs:int" />
+      <xs:element name="reverseReason" type="xs:int" />
+      <xs:element name="branchCode" type="xs:int" />
+      <xs:element minOccurs="0" name="operatorCode" type="xs:string" />
+      <xs:element name="sourceAccountType" type="xs:int" />
+      <xs:element minOccurs="0" name="sourceCountactNumber" type="xs:string" />
+      <xs:element minOccurs="0" name="sourceReference" type="xs:string" />
+      <xs:element minOccurs="0" name="targetIdentification" type="xs:string" />
+      <xs:element minOccurs="0" name="sourceIdentification" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

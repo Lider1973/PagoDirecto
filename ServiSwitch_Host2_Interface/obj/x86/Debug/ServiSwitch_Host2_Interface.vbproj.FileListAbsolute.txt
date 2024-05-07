@@ -1,0 +1,156 @@
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\ISO8583Estandar\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\DESARROLLO\PRUEBAS\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\DESARROLLO\PRUEBAS\transfer 20160801\ServiSwitch_Host2_Interface v2\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\DESARROLLO\PRUEBAS\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SystemATM\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe.config
+C:\SystemATM\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.exe
+C:\SystemATM\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.pdb
+C:\SystemATM\ServiceSwitch_Release\HOST2\ServiSwitch_Host2_Interface.xml
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Users\lnavarrete\Downloads\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe.config
+C:\Users\lnavarrete\Downloads\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe
+C:\Users\lnavarrete\Downloads\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.pdb
+C:\Users\lnavarrete\Downloads\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.xml
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.xml
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.xml
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\Respaldo Lider  N\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.xml
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\Respaldo\.NET appl\DownSite\test\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbprojResolveAssemblyReference.cache
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.xml
+C:\SystemATM\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbprojResolveAssemblyReference.cache
+C:\SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\Users\lnavarrete2018\Downloads\20180313 SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\Users\lnavarrete2018\Downloads\20180313 SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\Users\lnavarrete2018\Downloads\20180313 SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\Users\lnavarrete2018\Downloads\20180313 SOLUCIONES\POLICIA NACIONAL\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe.config
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\bin\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbprojResolveAssemblyReference.cache
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.Cache
+C:\SISTEMAS\CPN PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe.config
+C:\SISTEMAS\CPN PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\CPN PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\CPN PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe.config
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface 20200326\obj\x86\Debug\ServiSwitch_Host2_Interface.vbprojAssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface 20200326\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface 20200326\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface 20200326\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface 20200326\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface 20200326\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe.config
+C:\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe
+C:\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.pdb
+C:\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.vbprojAssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface rev\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe.config
+C:\SISTEMAS\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\BANREDPD\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.Resources.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.exe
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.xml
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_Host2_Interface\obj\x86\Debug\ServiSwitch_Host2_Interface.pdb

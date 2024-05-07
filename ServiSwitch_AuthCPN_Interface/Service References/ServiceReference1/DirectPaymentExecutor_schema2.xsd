@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ns1="http://dto.directpayment.cpn.ecobis.cobiscorp" elementFormDefault="qualified" targetNamespace="http://service.directpayment.cpn.ecobis.cobiscorp" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="DirectPaymentExecutor_schema5.xsd" namespace="http://dto.directpayment.cpn.ecobis.cobiscorp" />
+  <xs:element name="ExecutePayment">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="inDirectPaymentRequest" type="ns1:DirectPaymentRequest" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ExecutePaymentResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="outDirectPaymentResponse" type="ns1:DirectPaymentResponse" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

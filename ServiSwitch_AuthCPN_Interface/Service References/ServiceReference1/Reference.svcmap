@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="95305685-7536-444a-b994-8375804fc992" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address=" http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutorWSService.wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DirectPaymentExecutor_schema4.xsd" MetadataType="Schema" ID="14aaf45f-747f-48cf-83da-2276d6ab2c5b" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutor_schema4.xsd" />
+    <MetadataFile FileName="DirectPaymentExecutor_schema1.xsd" MetadataType="Schema" ID="b354e230-4dce-47a9-a9c8-61968e618f18" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutor_schema1.xsd" />
+    <MetadataFile FileName="DirectPaymentExecutor_schema2.xsd" MetadataType="Schema" ID="abfcb4cf-ec14-462d-ad2e-e7ae88250ef6" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutor_schema2.xsd" />
+    <MetadataFile FileName="DirectPaymentExecutor.wsdl" MetadataType="Wsdl" ID="6e1d5411-c1c5-44f9-bb82-2e3ba008ffe3" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutor.wsdl" />
+    <MetadataFile FileName="DirectPaymentExecutor_schema5.xsd" MetadataType="Schema" ID="9cf9b6c0-9ef6-4d95-95e2-9fe64dbdd90b" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutor_schema5.xsd" />
+    <MetadataFile FileName="DirectPaymentExecutorWSService.wsdl" MetadataType="Wsdl" ID="ab2fee0c-5b60-4921-8e51-6a414ee73884" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutorWSService.wsdl" />
+    <MetadataFile FileName="DirectPaymentExecutor_schema3.xsd" MetadataType="Schema" ID="17de4d5e-ec0f-4a5d-842c-4f79a47bb1bd" SourceId="1" SourceUrl="http://192.10.10.68:9080/DirectPayment/DirectPaymentExecutorWSService/DirectPaymentExecutor_schema3.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

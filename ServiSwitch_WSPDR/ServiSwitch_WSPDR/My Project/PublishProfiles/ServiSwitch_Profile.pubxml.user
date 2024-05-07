@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\SystemATM\Ejecutables\WEBSERVICE</_PublishTargetUrl>
+    <History>True|2022-11-26T11:41:30.2093526Z;True|2022-11-26T06:36:28.5260660-05:00;True|2022-09-17T11:51:54.8536603-05:00;True|2022-09-17T11:51:48.1903446-05:00;True|2022-09-14T13:10:48.5849152-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ServiSwitch_WSPDR.dll">
+      <publishTime>11/26/2022 06:41:20</publishTime>
+    </File>
+    <File Include="bin/ServiSwitch_WSPDR.pdb">
+      <publishTime>11/26/2022 06:41:20</publishTime>
+    </File>
+    <File Include="bin/ServiSwitch_WSPDR.xml">
+      <publishTime>11/26/2022 06:41:20</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>11/26/2022 06:41:29</publishTime>
+    </File>
+    <File Include="Service_Asynchronious.svc">
+      <publishTime>02/13/2017 22:28:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/26/2022 06:36:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

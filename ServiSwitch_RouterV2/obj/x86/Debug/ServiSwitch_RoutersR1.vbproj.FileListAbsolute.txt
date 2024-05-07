@@ -1,0 +1,100 @@
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe.config
+C:\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe
+C:\ServiceSwitch_Release\Componente\ServiSwitch_Routers.pdb
+C:\ServiceSwitch_Release\Componente\ServiSwitch_Routers.xml
+C:\TOOLS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\TOOLS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.Cache
+C:\TOOLS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\TOOLS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\TOOLS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\DESARROLLO\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe.config
+C:\DESARROLLO\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe
+C:\DESARROLLO\ServiceSwitch_Release\Componente\ServiSwitch_Routers.pdb
+C:\DESARROLLO\ServiceSwitch_Release\Componente\ServiSwitch_Routers.xml
+C:\DESARROLLO\PRUEBAS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\DESARROLLO\PRUEBAS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\DESARROLLO\PRUEBAS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\DESARROLLO\PRUEBAS\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SystemATM\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe.config
+C:\SystemATM\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe
+C:\SystemATM\ServiceSwitch_Release\Componente\ServiSwitch_Routers.pdb
+C:\SystemATM\ServiceSwitch_Release\Componente\ServiSwitch_Routers.xml
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\bin\Debug\ServiSwitch_Routers.exe.config
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\bin\Debug\ServiSwitch_Routers.exe
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\bin\Debug\ServiSwitch_Routers.pdb
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\bin\Debug\ServiSwitch_Routers.xml
+C:\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.exe
+C:\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.exe.config
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SystemATM\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.pdb
+C:\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Ejecutables\ROUTER1\ServiSwitch_Routers.exe.config
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\new Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\new Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\new Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\new Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\new Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.Cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\new Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbprojAssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2 REV\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.exe.config
+C:\SISTEMAS\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.exe
+C:\SISTEMAS\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\ROUTER1\ServiSwitch_Routers.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_RoutersR1.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_RouterV2\obj\x86\Debug\ServiSwitch_Routers.pdb

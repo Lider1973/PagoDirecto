@@ -1,0 +1,171 @@
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\ServiSwitch_Commander.exe.config
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\ServiSwitch_Commander.exe
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\ServiSwitch_Commander.pdb
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\ServiSwitch_Commander.xml
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\ServerAPPL\Ejecutables\COMMANDER\ServiSwitch_Commander.exe.config
+C:\ServerAPPL\Ejecutables\COMMANDER\ServiSwitch_Commander.exe
+C:\ServerAPPL\Ejecutables\COMMANDER\ServiSwitch_Commander.pdb
+C:\ServerAPPL\Ejecutables\COMMANDER\ServiSwitch_Commander.xml
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.exe.config
+C:\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.exe
+C:\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.pdb
+C:\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.xml
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SystemATM\Fuentes\MonitorProcess STD\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SOLUCIONES\BANCO COMERCIAL\Ejecutables\COMMANDER\ServiSwitch_Commander.exe
+C:\SOLUCIONES\BANCO COMERCIAL\Ejecutables\COMMANDER\ServiSwitch_Commander.exe.config
+C:\SOLUCIONES\BANCO COMERCIAL\Ejecutables\COMMANDER\ServiSwitch_Commander.pdb
+C:\SOLUCIONES\BANCO COMERCIAL\Ejecutables\COMMANDER\ServiSwitch_Commander.xml
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SOLUCIONES\BANCO COMERCIAL\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbprojResolveAssemblyReference.cache
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\BCM ATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.Cache
+C:\SISTEMAS\BCM ATM\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbprojAssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbprojAssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess trace\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.AssemblyReference.cache
+C:\SISTEMAS\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.exe.config
+C:\SISTEMAS\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.exe
+C:\SISTEMAS\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\COMMANDER\ServiSwitch_Commander.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_EnableDisable.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_EnableDisable.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\CPN PDR\Fuentes\20221031 AUT\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.SuggestedBindingRedirects.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.MainForm.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.Resources.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_EnableDisable.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Institution.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_ISO8583V87.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_MainFile.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Routing.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Services.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.SWTM_Transaction.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.exe
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.xml
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_MonitorProcess\MonitorProcess\obj\Debug\ServiSwitch_Commander.pdb

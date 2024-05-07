@@ -1,0 +1,37 @@
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\bin\Debug\MonitorProcess.exe.config
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\bin\Debug\MonitorProcess.exe
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\bin\Debug\MonitorProcess.pdb
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\bin\Debug\MonitorProcess.xml
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\obj\Debug\MonitorProcess.Form1.resources
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\obj\Debug\MonitorProcess.Resources.resources
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\obj\Debug\MonitorProcess.vbproj.GenerateResource.Cache
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\obj\Debug\MonitorProcess.exe
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\obj\Debug\MonitorProcess.xml
+C:\Users\Lider\AppData\Local\Temporary Projects\MonitorProcess\obj\Debug\MonitorProcess.pdb
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.exe
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.exe.config
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.pdb
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.xml
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.MainForm.resources
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.Resources.resources
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.exe
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.xml
+C:\SystemATM\Fuentes\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.pdb
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.exe.config
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.exe
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.pdb
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\bin\Debug\MonitorProcess.xml
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.MainForm.resources
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.Resources.resources
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.vbproj.GenerateResource.Cache
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.exe
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.xml
+C:\DESARROLLO\PRUEBAS\MonitorProcess\MonitorProcess\obj\Debug\MonitorProcess.pdb
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\bin\Debug\MonitorProcess.exe.config
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\MonitorProcess.exe
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\MonitorProcess.xml
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\MonitorProcess.pdb
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\MonitorProcess.MainForm.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\MonitorProcess.Resources.resources
+C:\SystemATM\Fuentes\MonitorProcessBAR\MonitorProcess\obj\Debug\MonitorProcess.vbproj.GenerateResource.Cache

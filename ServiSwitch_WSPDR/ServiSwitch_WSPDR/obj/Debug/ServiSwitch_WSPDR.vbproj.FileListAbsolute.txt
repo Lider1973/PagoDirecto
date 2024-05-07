@@ -1,0 +1,79 @@
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll.config
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.pdb
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.xml
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.Cache
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\Users\Lider\Documents\Visual Studio 2013\Projects\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll.config
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.pdb
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll.config
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.pdb
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.xml
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.Cache
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\SystemATM\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll.config
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.pdb
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.xml
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.Cache
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\Users\lnavarrete\Downloads\to_DELETE\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll.config
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbprojResolveAssemblyReference.cache
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.Cache
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\CPN PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll.config
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\bin\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.Cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.CoreCompileInputs.cache
+C:\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.dll.config
+C:\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.dll
+C:\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.pdb
+C:\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.AssemblyReference.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\COOP POLICIA NACIONAL PDR\Fuentes\20221031 AUT\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.dll.config
+C:\SISTEMAS\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.pdb
+C:\SISTEMAS\SystemATM\Ejecutables\WEBSERVICE\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.AssemblyReference.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.Resources.resources
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.GenerateResource.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.vbproj.CoreCompileInputs.cache
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.dll
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.xml
+C:\SISTEMAS\CPN PAGO DIRECTO\Fuentes\20240323 CHANGUES\ServiSwitch_WSPDR\ServiSwitch_WSPDR\obj\Debug\ServiSwitch_WSPDR.pdb

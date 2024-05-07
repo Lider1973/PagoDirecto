@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ns1="http://dto2.commons.ecobis.cobiscorp" elementFormDefault="qualified" targetNamespace="http://dto2.sdf.cts.cobis.cobiscorp.com" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="DirectPaymentExecutor_schema4.xsd" namespace="http://dto2.commons.ecobis.cobiscorp" />
+  <xs:complexType name="CTSServiceResponseTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="success" type="xs:boolean" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="messages" nillable="true" type="ns1:MessageTO" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

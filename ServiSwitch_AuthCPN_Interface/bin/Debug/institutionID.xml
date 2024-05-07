@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--P-grp001-->
+<institutionID>
+   <institutionElement>
+      <name>Bolivariano</name>
+      <aba>072978</aba>
+      <adq>164</adq>
+      <auth>704</auth>
+   </institutionElement>
+   <institutionElement>
+      <name>Guayaquil</name>
+      <aba>080502</aba>
+      <adq>185</adq>
+      <auth>725</auth>
+   </institutionElement>
+   <institutionElement>
+      <name>Austro</name>
+      <aba>090414</aba>
+      <adq>186</adq>
+      <auth>726</auth>
+   </institutionElement>   
+</institutionID>

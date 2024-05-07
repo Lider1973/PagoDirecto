@@ -1,0 +1,9 @@
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\sbd_Routers.exe.config
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\sbd_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\sbd_Routers.pdb
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\sbd_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\sbd_Routers.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\sbd_Routers.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\sbd_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\sbd_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\sbd_Routers.pdb

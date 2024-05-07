@@ -1,0 +1,17 @@
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\ServiSwitch_Routers.exe.config
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\ServiSwitch_Routers.pdb
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\bin\Debug\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Release\ROUTERS\ServiSwitch_Routers.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\ROUTERS\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Release\ROUTERS\ServiSwitch_Routers.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\ROUTERS\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe.config
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.pdb
+C:\ServiceSwitch\ServiceSwitch_Release\Componente\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.Resources.resources
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_RoutersA1.vbproj.GenerateResource.Cache
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.exe
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.xml
+C:\ServiceSwitch\ServiceSwitch_Fonts\ServiSwitch_Router\obj\x86\Debug\ServiSwitch_Routers.pdb
